@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Nada Abdulaziz cybersecurity profile banner">
+<defs>
+ <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#070912"/><stop offset=".55" stop-color="#130d29"/><stop offset="1" stop-color="#060d13"/></linearGradient>
+ <linearGradient id="neon" x1="0" x2="1"><stop stop-color="#b88bff"/><stop offset=".52" stop-color="#8b5cf6"/><stop offset="1" stop-color="#60f6bc"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#8b5cf6" stop-opacity=".25"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#8f73c4" stroke-width=".55" opacity=".22"/></pattern>
+ <filter id="soft"><feGaussianBlur stdDeviation="7"/></filter>
+</defs>
+<rect width="1200" height="340" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="340" rx="20" fill="url(#grid)"/>
+<ellipse cx="980" cy="155" rx="300" ry="235" fill="url(#glow)"/>
+<path d="M0 3 H1200 M0 337 H1200" stroke="url(#neon)" stroke-width="3" opacity=".7"/>
+<g fill="none" stroke="#9868f9" stroke-width="2" opacity=".43">
+<path d="M40 68 H132 l35 34 h100"/><path d="M0 238 h130 l60 -60 h70"/><path d="M1105 49 h-55 l-36 36 h-62"/><path d="M1199 273 h-107 l-45 -45 h-55"/><path d="M1117 121 h-38 l-25 25"/>
+</g>
+<g fill="#a987ff"><circle cx="267" cy="102" r="4"/><circle cx="260" cy="178" r="4"/><circle cx="952" cy="85" r="4"/><circle cx="992" cy="228" r="4"/></g>
+<g transform="translate(943 165)">
+ <circle r="107" fill="none" stroke="#a986ff" opacity=".12" stroke-width="23"/>
+ <circle r="88" fill="none" stroke="#9c78f9" opacity=".65" stroke-width="2" stroke-dasharray="12 8"/>
+ <circle r="69" fill="#0b1020" stroke="#70edbf" opacity=".85" stroke-width="2"/>
+ <path d="M0 -49 L46 -29 V10 Q44 43 0 61 Q-44 43 -46 10 V-29Z" fill="#201540" stroke="#b689ff" stroke-width="3"/>
+ <path d="M0 -33 L29 -20 V9 Q27 30 0 44 Q-27 30 -29 9 V-20Z" fill="none" stroke="#69f3b3" stroke-width="2"/>
+ <rect x="-15" y="-3" width="30" height="24" rx="4" fill="#73f1bb"/>
+ <path d="M-9 -3 v-9 a9 9 0 0 1 18 0 v9" fill="none" stroke="#73f1bb" stroke-width="5"/>
+ <circle cx="0" cy="8" r="3" fill="#101522"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif">
+ <text x="76" y="81" font-size="18" letter-spacing="4" fill="#6df1b4" font-weight="700">// IDENTITY VERIFIED</text>
+ <text x="73" y="162" font-size="64" fill="#f6f3ff" font-weight="800">NADA</text>
+ <text x="73" y="225" font-size="64" fill="url(#neon)" font-weight="800">ABDULAZIZ</text>
+ <text x="77" y="267" font-size="19" fill="#d2c7e7" letter-spacing="2">CYBERSECURITY STUDENT  /  UNIVERSITY OF BAHRAIN</text>
+ <text x="77" y="306" font-size="16" fill="#80efc2" letter-spacing="3">LEARN  •  BUILD  •  SECURE</text>
+</g>
+<rect x="22" y="22" width="1156" height="296" rx="13" fill="none" stroke="#af90f8" opacity=".3" stroke-width="1"/>
+</svg>
