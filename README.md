@@ -81,6 +81,6 @@ My goal is to keep asking better questions, tackling meaningful challenges, and 
 
 **[Explore my GitHub](https://github.com/nada-abdulaziz)**
 
-<sub>Designed with curiosity, powered by purpose. 💜</sub>
+
 
 </div>
