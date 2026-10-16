@@ -18,19 +18,6 @@
 
 ### `01 / WHO AM I?` <img src="https://img.shields.io/badge/STATUS-LEARNING-65EAB4?style=flat-square&labelColor=15101F" alt="Learning status" />
 
-```python
-class CybersecurityStudent:
-    name = "Nada Abdulaziz"
-    university = "University of Bahrain"
-    location = "Bahrain 🇧🇭"
-    mission = "Learn. Build. Secure."
-
-    interests = [
-        "Network Security", "Digital Forensics",
-        "Cloud Security", "Python", "Security Innovation"
-    ]
-```
-
 I'm **Nada Abdulaziz**, a Cybersecurity student at the **University of Bahrain**. I'm curious about what happens behind the screen — how systems work, where vulnerabilities emerge, and how smarter security can make a difference.
 
 I love turning what I learn into practical projects and exploring the intersection of **security, technology, and innovation**.
