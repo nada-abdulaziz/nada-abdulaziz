@@ -8,4 +8,3 @@ class CybersecurityStudent:
         "Network Security", "Digital Forensics",
         "Cloud Security", "Python", "Security Innovation"
     ]
-    
