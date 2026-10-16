@@ -1,38 +1,113 @@
-# Hi, I'm Kavish!
-### Welcome to my <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="24"/>GitHub Profile
 
-<p align="center">
-  <a href="https://kavi.sh/"><img src="https://img.icons8.com/color/96/000000/internet.png" height="16"/>Personal Website</a> •
-  <a href="https://twitter.com/2Gremlin181"><img src="https://img.icons8.com/color/96/000000/twitter-circled.png" height="16"/>Twitter</a> •
-  <a href="https://www.linkedin.com/in/kavish-hukmani/"><img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="16"/>LinkedIn</a> •
-  <a href="mailto:khukmani@gmail.com"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a>
-</p>
+<div align="center">
 
-#### Why not play a game of Tic-Tac-Toe<img src="https://img.icons8.com/material-outlined/96/000000/delete-sign.png" height="16"/><img src="https://img.icons8.com/material-outlined/96/000000/unchecked-circle.png" height="16"/> while you're here
-Click on a tile to play  
-The most picked move is chosen every hour
+# Hi, I'm Nada Abdulaziz! 👩🏻‍💻
 
-Current turn: <img src= "https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/True.png" alt="Current Turn" width="32"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;University+of+Bahrain;Exploring+the+World+of+Cybersecurity;Learn.+Build.+Secure." alt="Typing SVG" />
 
-| Tic | Tac | Toe |
-|--|--|--|
-| [![Tile 0](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/None.png)](https://linkly.link/2FE1V) | [![Tile 1](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/None.png)](https://linkly.link/2FE1X) | [![Tile 2](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/None.png)](https://linkly.link/2FE1Y) |
-| [![Tile 3](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/False.png)](https://github.com/DoubleGremlin181) | [![Tile 4](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/True.png)](https://github.com/DoubleGremlin181) | [![Tile 5](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/None.png)](https://linkly.link/2FE1b) |
-| [![Tile 6](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/False.png)](https://github.com/DoubleGremlin181) | [![Tile 7](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/None.png)](https://linkly.link/2FE1d) | [![Tile 8](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/None.png)](https://linkly.link/2FE1e) |
+### 🛡️ Cybersecurity Student | University of Bahrain 🇧🇭
 
-## How it works
+**Securing the digital world, one step at a time.**
 
-Each open tile is a hyperlink embedded in an image which tracks the number of clicks and redirects you to back my profile.
-Every time the program is run it plays the move with maximum number of clicks.
-It uses GitHub Actions to run every hour using a cron job.
-The rest is just a regular game of Tic-Tac-Toe
-    
-## About Me
+![Profile Views](https://komarev.com/ghpvc/?username=nada-abdulaziz&color=00ff88&style=flat-square)
 
-Hey there! 👋 My name is Kavish Hukmani, and I'm a passionate 🥇, creative 🎨, and perceptive 🔭 engineer 🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge 📚. Anything and everything that can be classified as technology 💻 fascinates me.
+</div>
 
-Currently, I'm based in the beautiful city of San Francisco 🌉 where I work as an Analytics Professional 📊 at Meta, developing GenAI features for internal tools 🛠️ used for workplace analytics 🏢 of over 100k employees and contractors worldwide. Previously, I was a Data Scientist 🧑‍🔬 at Unison, focusing on challenges in Finance 💰, Housing 🏠, and Marketing 📣. Before that, I contributed to the Impact Analytics team, developing products that facilitated data-driven decision-making for leading Retail 💃 and CPG 🍫 companies. Oh, and I proudly hold an MS in Business Analytics 📈 from UC Davis 🎓.
+---
 
-When I'm not immersed in the world of technology, you can find me following a range of sports, from Soccer ⚽ and Formula1 🏎️ to various eSports 🖱️. Apart from that, I love solving puzzles 🧩 and listening to music 🎶.
+## 💻 About Me
 
-I'm always open to new ideas and opportunities. You can learn more about me on my [website](https://kavi.sh/) 🌐 or connect with me on [LinkedIn](https://www.linkedin.com/in/kavish-hukmani/) 👥. Feel free to reach out to me directly at [khukmani@gmail.com](mailto:khukmani@gmail.com) 📧. Let's connect and explore exciting possibilities together! 🚀
+Hey there! 👋
+
+I'm **Nada Abdulaziz**, a passionate Cybersecurity student at the **University of Bahrain** 🇧🇭.
+
+I'm fascinated by technology and the constantly evolving world of cybersecurity. My interests include network security, digital forensics, cloud security, and programming.
+
+I enjoy exploring how systems work, identifying security challenges, and developing innovative solutions to real-world problems.
+
+I'm constantly learning, improving my technical skills, and expanding my knowledge through hands-on projects and new experiences.
+
+**My goal is to contribute to building a safer and more secure digital future.** 🔐
+
+---
+
+## 🛡️ Areas of Interest
+
+```yaml
+Name: Nada Abdulaziz
+Education: University of Bahrain
+Major: Cybersecurity
+Location: Bahrain
+
+Interests:
+  - Cybersecurity
+  - Network Security
+  - Digital Forensics
+  - Cloud Security
+  - Python Programming
+  - Web Development
+  - Security Research
+```
+
+---
+
+## ⚙️ Technologies & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,linux,windows,git,github,vscode,aws&theme=dark" alt="Technologies and Tools" />
+
+</div>
+
+---
+
+## 🚀 Currently Exploring
+
+- 🔐 Cybersecurity and information security concepts
+- 🌐 Network security and digital forensics
+- ☁️ Cloud computing and cloud security
+- 🐍 Python programming
+- 💻 Web development
+- 🛠️ Hands-on cybersecurity projects
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nada-abdulaziz&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nada-abdulaziz&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Most Used Languages" />
+
+</div>
+
+---
+
+## 🎯 My Mission
+
+> "Cybersecurity is not just about protecting systems; it's about protecting the future."
+
+I believe that curiosity, continuous learning, and determination are the keys to growing in the world of technology.
+
+Every challenge is an opportunity to learn something new.
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF88)](https://github.com/nada-abdulaziz)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💚 Thanks for visiting my GitHub profile!
+
+**Keep Learning • Keep Building • Stay Secure**
+
+</div>
